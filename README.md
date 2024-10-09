@@ -25,7 +25,7 @@ let's Connect!
 <h4>Connect Through</h4>
 
 
-<a href="www.linkedin.com/in/varthavees">
+<a href="https://www.linkedin.com/in/varthavees/">
   
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/plasticine/2x/linkedin.png" width=50/>
 </a>
