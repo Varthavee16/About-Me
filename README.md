@@ -30,6 +30,6 @@ let's Connect!
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/plasticine/2x/linkedin.png" width=50/>
 </a>
 
-<a href="mailto:svarthavee@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
   <img align="left" alt="Gmail" src="https://img.icons8.com/plasticine/344/gmail.png" width=50/>
 </a>
