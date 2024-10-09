@@ -1,6 +1,6 @@
 # About-Me
 
-<h2> Hi, I'm Varthavee ! <img src="https://cdn-icons-png.flaticon.com/512/3041/3041320.png"  width=30> </h2>
+<h2> Hi, I'm Varthavee ! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fgirl-with-laptop&psig=AOvVaw3vBjWd3YAMaJOFqXfXCOoL&ust=1728561021552000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCJw-CdgYkDFQAAAAAdAAAAABAE"  width=30> </h2>
 
 <img align='right' src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" height=215 width=200>
 
